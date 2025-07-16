@@ -1,7 +1,6 @@
 ## Olá. Eu sou o Victor Andrade
 
-- 🔭 Estou trabalhando com Visual Basic 6, C# e Flutter.
-- 🌱 Estudando Flutter.
+- 🔭 Estou trabalhando com Visual Basic 6, .Net e Flutter.
 
 <div align="center">
   <a href="https://github.com/victorgusto">
